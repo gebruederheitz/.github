@@ -25,3 +25,4 @@ These are dependencies which are usually installed on a system anyways, but make
 - rsync (If you are on macOS make sure to install a recent version from brew.)
 - ssh client (We will use the ssh public keys you provided to Github for managing access.)
 - make (It does not need to be GNU Make, but that is the base it should be compatible with.)
+- git (Github Desktop is fine, and you get bonus points for signing your commits)
