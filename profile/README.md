@@ -1,6 +1,1 @@
-Wir ❤️ das Web & Open Source
-Unsere Stacks:
-- 🧐 TYPO3
-- 🧑‍🎨 Wordpress
-- 🏃 Strapi
-- 🐰 Directus
+Wir ❤️ das Web & Open Source --- 🧐 TYPO3 --- 🧑‍🎨 Wordpress --- 🏃 Strapi --- 🐰 Directus
