@@ -17,6 +17,10 @@ As an alternative to make we often use [task](https://taskfile.dev/). Make sure 
 
 We use [nvm](https://github.com/nvm-sh/nvm) to set a per project node version. For a comfortable setup look at https://github.com/nvm-sh/nvm#deeper-shell-integration.
 
+## 1Password CLI
+
+We use [1password](https://1password.com) for secret management. For easy integration into our deployments we use the cli, which you will need to have installed too: [1Password Command Line](https://1password.com/de/downloads/command-line/)
+
 ## Other dependencies
 
 These are dependencies which are usually installed on a system anyways, but make sure that they are present:
