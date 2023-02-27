@@ -4,8 +4,7 @@ This document aims to provide you with a general overview of what tools we use, 
 
 ## DDEV / Docker
 
-For working locally you need to use [ddev](https://ddev.readthedocs.io/). We use the default ports (80 & 443) of ddev to develop, but if you need to run
-ddev on different ports you can alter the global config with the ports values you find in the [configuration reference](https://ddev.readthedocs.io/en/stable/users/configuration/config/).
+For working locally you need to use [ddev](https://ddev.readthedocs.io/).
 
 Some repos use docker directly. But it is a dependency of ddev anyways, so we just mention it here.
 
