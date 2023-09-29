@@ -4,6 +4,8 @@ This requirements are built on top of [the base contributing guidelines](./CONTR
 
 Even though they may not be followed perfectly in every project all the time, in a world where a perfect project exists everything here is followed.
 
+These guidelines are for the projects lead by Karl and are not rules for the organization.
+
 ## Committing Code
 
 Use [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) for your commit messages. Don't think too hard about it though, just keep your commits small, that will make it easy to pick the right message.
@@ -27,3 +29,11 @@ Write gherkin files (even if the tests are not yet set up) and execute them with
 ## Dont dry yourself
 
 Value the ease of communicating logic quickly over the dry principle. 
+
+## Deployments
+
+All deployments are the git archive at the latest head of the trunk. Supporting assets like css might get built in CI for deployment. Secrets are set as part of the deployment process.
+
+## Make it repetable
+
+Value config files over backend settings. Value scripts over ssh interaction. Value repeatability over speed.
