@@ -12,7 +12,7 @@ Use [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) for y
 
 ## Development cycle 
 
-Use [https://trunkbaseddevelopment.com/](trunk based development) for working on the project. You are free to request reviews at any time, but any branch should not live longer than a week. Feel free to use the app environment as a feature flag.
+Use [trunk based development](https://trunkbaseddevelopment.com) for working on the project. You are free to request reviews at any time, but any branch should not live longer than a week. Feel free to use the app environment as a feature flag.
 
 ## Testing
 
