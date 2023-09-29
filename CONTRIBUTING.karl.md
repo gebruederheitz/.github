@@ -12,7 +12,7 @@ Use [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) for y
 
 ## Development cycle 
 
-Use [https://trunkbaseddevelopment.com/](trunk based development) for working on the project. You are free to request reviews at any time, but any branch should not live longer than a week.
+Use [https://trunkbaseddevelopment.com/](trunk based development) for working on the project. You are free to request reviews at any time, but any branch should not live longer than a week. Feel free to use the app environment as a feature flag.
 
 ## Testing
 
@@ -36,4 +36,4 @@ All deployments are the git archive at the latest head of the trunk. Supporting 
 
 ## Make it repetable
 
-Value config files over backend settings. Value scripts over ssh interaction. Value repeatability over speed.
+Value config files in the vcs over backend settings. Value scripts over ssh interaction. Value repeatability over speed.
