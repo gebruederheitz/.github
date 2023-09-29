@@ -30,8 +30,7 @@ integration.
 
 We use [1password](https://1password.com) for secret management. For easy
 integration into our deployments we use the cli, which you will need to have
-installed too: [1Password Command Line](https://1password.com/de/downloads/
-command-line/)
+installed too: [1Password Command Line](https://1password.com/de/downloads/command-line/)
 
 ## Other dependencies
 
