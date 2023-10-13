@@ -38,6 +38,6 @@ All deployments are the git archive at the latest head of the trunk. Supporting 
 
 Value config files in the vcs over backend settings. Value scripts over ssh interaction. Value repeatability over speed.
 
-# 2 Factors??? We need moar!!!
+## 2 Factors??? We need moar!!!
 
 Joking aside, follow the guidelines on https://12factor.net/ to produce a robust application.
