@@ -34,7 +34,7 @@ Value the ease of communicating logic quickly over the dry principle.
 
 All deployments are the git archive at the latest head of the trunk. Supporting assets like css might get built in CI for deployment. Secrets are set as part of the deployment process.
 
-## Make it repetable
+## Make it repeatable
 
 Value config files in the vcs over backend settings. Value scripts over ssh interaction. Value repeatability over speed.
 
