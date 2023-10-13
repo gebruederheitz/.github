@@ -24,7 +24,8 @@ it's installed
 
 We use [nvm](https://github.com/nvm-sh/nvm) to set a per project node version.
 For a comfortable setup look at https://github.com/nvm-sh/nvm#deeper-shell-
-integration.
+integration. (Tip: you can also use [asdf](https://github.com/asdf-vm/asdf) or [rtx](https://github.com/jdx/rtx)
+but the config must be compatible with nvm)
 
 ## 1Password CLI
 
