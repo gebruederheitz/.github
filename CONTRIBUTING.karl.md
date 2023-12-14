@@ -41,3 +41,7 @@ Value config files in the vcs over backend settings. Value scripts over ssh inte
 ## 2 Factors??? We need moar!!!
 
 Joking aside, follow the guidelines on https://12factor.net/ to produce a robust application.
+
+## RTX
+
+Unlike other projects described in [the base contributing guidelines](./CONTRIBUTING.md), use [rtx](https://github.com/jdx/rtx), since projects are starting to use .rtx.toml for added python versioning.
