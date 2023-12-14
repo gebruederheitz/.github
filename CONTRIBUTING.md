@@ -47,3 +47,4 @@ make sure that they are present:
 - git (Github Desktop is fine, and you get bonus points for signing your
   commits)
 - bash (not only sh, we have some bashisms in older projects)
+- configured ssh agent
